@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Books</string>
+
+    <string name="web_tab">Web</string>
+    <string name="favorites_tab">Favorites</string>
+    <string name="detail_activity_title">Book details</string>
+
+    <string name="pages_format">Pages: %1$d</string>
+    <string name="year_format">Year: %1$d</string>
+    <string name="share">Share</string>
+    <string name="error_connection">You are not connected!</string>
+    <string name="empty_list">No data to show.</string>
+</resources>
